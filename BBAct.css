@@ -46,7 +46,9 @@ body {
     border: 2px solid #ff5f45;
     text-align:center;
     width:50%;
-    float:right;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 img{
     opacity:100%;
