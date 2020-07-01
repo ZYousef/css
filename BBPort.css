@@ -1,4 +1,4 @@
-#portBody,#portContainer{
+#portBody,#portContainer,body{
     background-color:#0e1215;
     height: 100%;
     width: 100%;
@@ -64,10 +64,12 @@ ul.icons li i:hover {
     width: 100%;
 }
 
-#portNav ul a {
+#portNav ul li{
     color: #878787;
 }
-
+a {
+    color:white;
+}
 #portText h2 {
     visibility: hidden;
 }
