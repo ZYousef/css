@@ -76,7 +76,7 @@ ul.icons li i:hover {
 #portNav{
     color: #878787;
 }
-a,ul, li, p, ol, h1, h2, h3, h4, h5, h6,#portText h2, .section-title{
+a,ul, li, p, ol, h1, h2, h3, h4, h5, h6,.portSection h3 h1 h2 h4 h5 h6 p li ul ol a , .section-title{
     color:white;
 }
 #portText h2 {
