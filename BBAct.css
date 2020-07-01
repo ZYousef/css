@@ -44,9 +44,9 @@ body {
     text-transform: capitalize;
     border-radius: 25px;
     border: 2px solid #ff5f45;
-    width:50%;
-    margin:auto;
     text-align:center;
+    width:50%;
+    margin-left:30%;
 }
 img{
     opacity:100%;
