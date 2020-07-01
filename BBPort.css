@@ -1,4 +1,4 @@
-body,.bbDefault{
+#portBody,.bbDefault{
     background-color:#0e1215;
     height: 100%;
     width: 100%;
@@ -55,11 +55,6 @@ ul.icons li i {
 
 ul.icons li i:hover {
     color: white;
-}
-
-#portBody {
-    background-color: transparent;
-    border: none;
 }
 
 #portNav {
