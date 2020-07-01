@@ -32,11 +32,10 @@ div.transbox p {
 .avatar {
     vertical-align: middle;
     margin: 5%;
-    width: 50%;
-    height: 50%;
-    border-radius: 50%;
+    width:635px;
+    height: 220px;
+    border-radius: 80%;
     border: 3px solid white;
-    opacity: 2;
 }
 
 ul.icons {
