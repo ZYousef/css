@@ -53,15 +53,11 @@ body {
 img{
     opacity:100%;
 }
-/* Accordion */
+/* Accordion Took me a while to figure it out */
 
-		#portBody .portSection div.vtbegenerated{
-			display: none;
-			padding: 10px;
-			background: #f9f9f9;
-			border: 1px solid #ddd;
-		}
-
-		#portBody .portSection:hover div.vtbegenerated{
-			display: inherit;
-		}
+#portBody .portSection div.vtbegenerated {
+    display: none;
+}
+#portBody .portSection:hover div.vtbegenerated{
+    display: inherit;
+}
