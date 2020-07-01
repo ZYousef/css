@@ -43,6 +43,8 @@ body {
     font-weight: bold;
     text-align:center;
     text-transform: capitalize;
+    pardding:15px;
+    background-color:transparent;
 }
 img{
     opacity:100%;
