@@ -67,15 +67,15 @@ ul.icons li i:hover {
 }
 
 #portNav {
-    background-color: transparent;
+    background-color: white;
     border: none;
-    opacity: 0.6;
+    opacity: 0.8;
     width: 100%;
 }
 
 #portNav{
     color: #878787;
 }
-a ul li p ol h1 h2 h3 h4 h5 h6 {
+a,ul, li, p, ol, h1, h2, h3, h4, h5, h6 {
     color:white;
 }
