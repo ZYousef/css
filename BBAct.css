@@ -53,3 +53,28 @@ body {
 img{
     opacity:100%;
 }
+/* Accordion */
+        .vtbegenerated{
+			width: 600px;
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+
+		.vtbegenerated h2{
+			font-size: 12pt;
+			margin: 0px;
+			padding: 10px;
+			background: #ccc;
+			border-bottom: 1px solid #fff;
+		}
+		.vtbegenerated #portText .portSection h3  div.portSection{
+			display: none;
+			padding: 10px;
+			background: #f9f9f9;
+			border: 1px solid #ddd;
+		}
+
+		.vtbegenerated #portText .portSection h3:hover div.portSection{
+			display: inherit;
+		}
