@@ -79,7 +79,7 @@ ul.icons li i:hover {
 a,ul, li, p, ol, h1, h2, h3, h4, h5, h6,#portText h2, .section-title{
     color:white;
 }
-#portText {
+#portText h2 {
     visibility: hidden;
 }
     
