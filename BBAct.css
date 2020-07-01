@@ -54,27 +54,27 @@ img{
     opacity:100%;
 }
 /* Accordion */
-        	.portBody {
+        	#portBody {
 			width: 600px;
 			margin: 0px;
 			padding: 0px;
 			list-style: none;
 		}
 
-		.portBody .portSection h3 {
+		#portBody .portSection h3 {
 			font-size: 12pt;
 			margin: 0px;
 			padding: 10px;
 			background: #ccc;
 			border-bottom: 1px solid #fff;
 		}
-		.portBody portSection div.content{
+		#portBody .portSection div.content{
 			display: none;
 			padding: 10px;
 			background: #f9f9f9;
 			border: 1px solid #ddd;
 		}
 
-		.portBody portSection:hover div.content{
+		#portBody .portSection:hover div.content{
 			display: inherit;
 		}
