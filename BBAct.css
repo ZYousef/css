@@ -68,13 +68,13 @@ img{
 			background: #ccc;
 			border-bottom: 1px solid #fff;
 		}
-		#portBody .portSection div.content{
+		#portBody .portSection div.vtbegenerated{
 			display: none;
 			padding: 10px;
 			background: #f9f9f9;
 			border: 1px solid #ddd;
 		}
 
-		#portBody .portSection:hover div.content{
+		#portBody .portSection:hover div.vtbegenerated{
 			display: inherit;
 		}
