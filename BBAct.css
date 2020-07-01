@@ -19,6 +19,7 @@ body {
 }
 
 #portNav {
+    color:#ff5f45;
     background-color: black;
     border: 5px solid white;
     opacity: 0.7;
@@ -44,7 +45,8 @@ body {
     text-align:center;
     text-transform: capitalize;
     pardding:15px;
-    background-color:transparent;
+    background-color:lightgray;
+    border-radius:30%;
 }
 img{
     opacity:100%;
