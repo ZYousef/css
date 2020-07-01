@@ -13,7 +13,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#portBody a{
+#portBody a span {
     color:#4B0082;
     text-decoration:none;
 }
@@ -45,5 +45,5 @@ body {
     text-transform: capitalize;
 }
 img{
-    opacity:2;
+    opacity:100%;
 }
