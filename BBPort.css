@@ -1,4 +1,4 @@
-#portBody,#portContainer, #portText{
+#portBody,#portContainer{
     background-color:#0e1215;
     height: 100%;
     width: 100%;
@@ -7,6 +7,10 @@ body{
     background-image:url("https://i.imgur.com/6LuwblX.png");
     height: 100%;
     width: 100%;
+}
+#portText{
+    background-color:#0e1215;
+    border:none;
 }
 div.center {
     position: absolute;
