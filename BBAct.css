@@ -8,7 +8,7 @@ body {
 #portBody {
     background-color: black;
     border: 5px solid white;
-    opacity: 0.2;
+    opacity: 0.9;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -16,7 +16,7 @@ body {
 #portNav {
     background-color: black;
     border: 5px solid white;
-    opacity: 0.5;
+    opacity: 0.7;
     width: 100%;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 #portNav li:hover{
     background-color:black;
-    opacity:0.7;
+    opacity:0.6;
 }
 
 #portText h2 {
@@ -40,5 +40,5 @@ body {
     text-transform: capitalize;
 }
 img{
-    opacity:0;
+    opacity:1;
 }
