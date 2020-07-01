@@ -1,5 +1,5 @@
 body {
-    background-color:#002035;
+    background-color:#0e1215;
     height: 100%;
     width: 100%;
 }
@@ -29,34 +29,14 @@ div.transbox p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.profile-picture {
-    content: url(https://i.imgur.com/5bhDRvM.jpg);
+.avatar {
+    vertical-align: middle;
     margin: 5%;
     width: 50%;
     height: 50%;
-    text-align: center;
     border-radius: 50%;
     border: 3px solid white;
     opacity: 2;
-}
-
-.profile-name {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
-    text-align: center;
-    text-transform: uppercase;
-    margin-top: -15px;
-    color: white;
-}
-
-.profile-summary {
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 15px;
-    margin-right: 15px;
-    color: white;
 }
 
 ul.icons {
@@ -93,8 +73,8 @@ ul.icons li i:hover {
 }
 
 #portNav {
-    background-color: black;
-    border: 5px solid white;
+    background-color: #878787;
+    border: none;
     opacity: 0.6;
     width: 100%;
 }
