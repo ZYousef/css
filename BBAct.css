@@ -8,9 +8,14 @@ body {
 #portBody {
     background-color: black;
     border: 5px solid white;
-    opacity: 0.9;
+    opacity: 0.8;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#portBody a{
+    color:#4B0082;
+    text-decoration:none;
 }
 
 #portNav {
@@ -40,5 +45,5 @@ body {
     text-transform: capitalize;
 }
 img{
-    opacity:1;
+    opacity:2;
 }
