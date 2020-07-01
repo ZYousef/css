@@ -54,20 +54,7 @@ img{
     opacity:100%;
 }
 /* Accordion */
-        	#portBody {
-			width: 600px;
-			margin: 0px;
-			padding: 0px;
-			list-style: none;
-		}
 
-		#portBody .portSection h3 {
-			font-size: 12pt;
-			margin: 0px;
-			padding: 10px;
-			background: #ccc;
-			border-bottom: 1px solid #fff;
-		}
 		#portBody .portSection div.vtbegenerated{
 			display: none;
 			padding: 10px;
