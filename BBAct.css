@@ -46,7 +46,7 @@ body {
     border: 2px solid #ff5f45;
     text-align:center;
     width:50%;
-    margin-left:30%;
+    float:right;
 }
 img{
     opacity:100%;
