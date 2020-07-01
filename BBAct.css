@@ -57,10 +57,7 @@ img{
 
 #portBody .portSection div.vtbegenerated {
     display: none;
-    transition: 2s display;
-
 }
 #portBody .portSection:hover div.vtbegenerated{
     display: inherit;
-    transition-delay:5s;
 }
