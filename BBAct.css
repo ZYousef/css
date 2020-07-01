@@ -45,7 +45,7 @@ body {
     text-transform: capitalize;
     border-radius: 25px;
     border: 2px solid #ff5f45;
-    margin: 25px 0;
+    width:50%;
 }
 img{
     opacity:100%;
