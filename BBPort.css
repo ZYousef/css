@@ -58,14 +58,14 @@ ul.icons li i:hover {
 }
 
 #portNav {
-    background-color: #878787;
+    background-color: white;
     border: none;
     opacity: 0.6;
     width: 100%;
 }
 
 #portNav ul a {
-    color: white;
+    color: #878787;
 }
 
 #portText h2 {
