@@ -62,6 +62,6 @@ body {
 #portBody .portSection:hover div.vtbegenerated{
     display: inherit;
     text-align:center;
-    font-size:5rem;
+    font-size:1rem;
     
 }
