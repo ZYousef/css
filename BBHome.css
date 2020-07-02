@@ -39,7 +39,8 @@
     color: white;
     z-index: 99999999;
 }
-/* Close Button */
+
+/*Close Button*/
 .closePreview {
     background:black!important;
     border-radius:5px!important;
