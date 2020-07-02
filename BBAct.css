@@ -129,3 +129,7 @@ body {
     text-align:center;
     font-size: 15px;;
 }
+/* Section Text Center*/
+#portBody .portSection div.vtbegenerated,h3 {
+    text-align: center;
+}
