@@ -12,7 +12,7 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#portBody span:[data-attr="img"]{
+#portBody[data-attr="img"]{
     border-radius: 5px;
     border: 1px solid white;
     opacity:1;
@@ -46,6 +46,7 @@ body {
 
 #portText .portSection h3 {
     color: white;
+    font-size:5.5vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-transform: capitalize;
@@ -65,6 +66,5 @@ body {
 #portBody .portSection:hover div.vtbegenerated{
     display: inherit;
     text-align:center;
-    font-size:1.2rem;
-    
+    font-size:5vw;
 }
