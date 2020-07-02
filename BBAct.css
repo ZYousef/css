@@ -5,7 +5,7 @@ body {
     width: 100%;
 }
 
-#portBody span:not([data-attr="img"]){
+#portBody{
     background-color: black;
     border: 5px solid white;
     opacity: 0.8;
@@ -15,6 +15,7 @@ body {
 #portBody span:img{
     border-radius: 5px;
     border: 1px solid white;
+    opacity:1;
 }
 
 #portBody a span {
@@ -62,6 +63,6 @@ body {
 #portBody .portSection:hover div.vtbegenerated{
     display: inherit;
     text-align:center;
-    font-size:1rem;
+    font-size:1.5rem;
     
 }
