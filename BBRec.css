@@ -32,11 +32,11 @@
 }
 /* Better comment bar */
 .portLivePreviewActionBar {
-    position: absolute;
+    position: absolute!important;
     top: 0px;
     height: 45px;
     width: 100%;
-    background: transparent;
+    background: transparent!important;
     color: white;
     z-index: 99999999;
 }
