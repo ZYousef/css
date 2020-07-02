@@ -1,3 +1,13 @@
+.artifactWrap, .folderContentView{
+    height: auto;
+    width: 80%;
+    margin-top: 15%;
+    background: black;
+    color: white;
+    border: 2px solid goldenrod;
+    border-radius: 20px;
+}
+/* Test UP */
 /* Header/Footer */
 #portHeader, #portFooter {
     color: white;
@@ -59,8 +69,8 @@
     background-image:none!important;
     border: 1px solid palegoldenrod!important;
 }
-/* Section Text Center */
-#portBody .portSection div.vtbegenerated {
+/* Section Text Center Copy To OTHERs*/
+#portBody .portSection h3 div.vtbegenerated {
     text-align: center;
 }
 body {
