@@ -69,7 +69,7 @@ body {
     background-color: rgba(0,0,0,0.8);
     border: 5px solid white;
     min-height: 0px;
-    color: white;
+    color: white!important;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #portBody .portSection div.vtbegenerated img{
