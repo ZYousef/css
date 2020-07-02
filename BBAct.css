@@ -5,12 +5,16 @@ body {
     width: 100%;
 }
 
-#portBody {
+#portBody span:not([data-attr="img"]){
     background-color: black;
     border: 5px solid white;
     opacity: 0.8;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#portBody span:img{
+    border-radius: 5px;
+    border: 1px solid white;
 }
 
 #portBody a span {
@@ -50,9 +54,6 @@ body {
     top: 50%;
     transform: translate(50%, -50%);
 }
-img{
-    opacity:100%;
-}
 /* Accordion Took me a while to figure it out */
 
 #portBody .portSection div.vtbegenerated {
@@ -60,4 +61,7 @@ img{
 }
 #portBody .portSection:hover div.vtbegenerated{
     display: inherit;
+    text-align:center;
+    font-size:5rem;
+    
 }
