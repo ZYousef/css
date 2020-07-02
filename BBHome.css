@@ -63,16 +63,16 @@ ul.icons li i:hover {
     background-color: transparent;
     border: none;
 }
-
 #portNav {
-    background-color: black;
+    background-color:#0e1215;
     border: 5px solid white;
-    opacity: 0.6;
+    opacity: 0.7;
     width: 100%;
+    display:grid;
 }
 
 #portNav ul li a {
-    color: white;
+    color: black;
 }
 
 #portText h2 {
