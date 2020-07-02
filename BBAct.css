@@ -12,10 +12,12 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#portBody span:img{
+#portBody span:[data-attr="img"]{
     border-radius: 5px;
     border: 1px solid white;
     opacity:1;
+    max-width: 100%;
+    height: auto;
 }
 
 #portBody a span {
@@ -63,6 +65,6 @@ body {
 #portBody .portSection:hover div.vtbegenerated{
     display: inherit;
     text-align:center;
-    font-size:1.5rem;
+    font-size:1.2rem;
     
 }
