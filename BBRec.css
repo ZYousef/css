@@ -103,6 +103,7 @@ body {
 
 #portText .portSection h3 {
     color: white;
+    font-size:3.5vmin;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-transform: capitalize;
