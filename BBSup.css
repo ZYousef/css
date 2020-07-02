@@ -1,13 +1,3 @@
-.artifactWrap, .folderContentView{
-    height: auto;
-    width: 80%;
-    margin-top: 15%;
-    background: black;
-    color: white;
-    border: 2px solid goldenrod;
-    border-radius: 20px;
-}
-/* Test UP */
 /* Header/Footer */
 #portHeader, #portFooter {
     color: white;
