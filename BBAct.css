@@ -26,22 +26,19 @@ body {
 }
 
 #portNav {
-    background-color: :#ff5f45;
+    background-color:#ff5f45;
     border: 5px solid white;
     opacity: 0.7;
     width: 100%;
-/*     test */
-    top:0;
-    left:0;
-    position:fixed;
 }
 
 #portNav ul li a {
-    color: white;
+    color: black;
 }
 #portNav li:hover{
-    background-color:black;
-    opacity:0.6;
+/*     background-color:black;
+    opacity:0.6; */
+    background-color:transparent;
 }
 
 #portText h2 {
