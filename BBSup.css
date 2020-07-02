@@ -59,7 +59,7 @@
     background-image:none!important;
     border: 1px solid palegoldenrod!important;
 }
-/* Section Text Center Copy To OTHERs*/
+/* Section Text Center*/
 #portBody .portSection div.vtbegenerated,h3 {
     text-align: center;
 }
@@ -71,17 +71,23 @@ body {
 }
 
 #portBody {
-    background-color: black;
+    background-color: rgba(0,0,0,0.8);
     border: 5px solid white;
-    opacity: 0.8;
     min-height: 0px;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #portBody a span {
-    color:#4B0082;
+    color:#4B0082!important;
     text-decoration:none;
+}
+
+#portBody .portSection div.vtbegenerated img{
+    border-radius: 5px!important;
+    border: 1px solid white!important;
+    max-width: 100%!important;
+    height: auto!important;
 }
 
 #portNav {
@@ -102,6 +108,7 @@ body {
 
 #portText .portSection h3.section-title {
     color: white;
+    font-size:3.5vmin;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-transform: capitalize;
@@ -113,6 +120,7 @@ body {
     top: 50%;
     transform: translate(50%, -50%);
 }
-img{
-    opacity:100%;
+/* Section Text Center*/
+#portBody .portSection div.vtbegenerated,h3 {
+    text-align: center;
 }
