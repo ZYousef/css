@@ -60,7 +60,7 @@
     border: 1px solid palegoldenrod!important;
 }
 /* Section Text Center Copy To OTHERs*/
-#portBody .portSection h3 div.vtbegenerated {
+#portBody .portSection div.vtbegenerated,h3 {
     text-align: center;
 }
 body {
