@@ -70,7 +70,7 @@ div.transbox p {
 }
 
 #portBody {
-    background-color: transparent;
+    background-color: rgba(0,0,0,0);
     border: none;
 }
 #portNav {
