@@ -1,11 +1,11 @@
-/* Header/Footer */
+/*Footer */
 #portHeader, #portFooter {
     color: white;
     text-align: center;
     font-size: large;
     background: transparent;
     border:none;
-    padding: 0px;
+    padding: 10px 30px; 
 }
 /* Mobile menu */
 .portNavMobileButton {
