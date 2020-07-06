@@ -61,14 +61,6 @@ body {
     width: 100%;
 }
 
-div.transbox p {
-    margin-left: 15px;
-    margin-right: 15px;
-    text-align: center;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 #portBody {
     background-color: rgba(0,0,0,0);
     border: none;
