@@ -79,11 +79,6 @@ body {
     height: auto!important;
 }
 
-#portBody span {
-    color:#4B0082!important;
-    text-decoration:none;
-}
-
 #portNav {
     background-color:#ff5f45;
     border: 5px solid white;
