@@ -91,11 +91,12 @@ body {
 }
 
 #portNav {
-    background-color:#fc6c7c;
+    background-color: #0e1215;
     border: 5px solid white;
     opacity: 0.7;
     width: 100%;
-    display:grid;
+    display: grid;
+    left: -334px;
 }
 
 #portNav ul li a {
