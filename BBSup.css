@@ -126,3 +126,12 @@ body {
 #portBody .portSection div.vtbegenerated,h3 {
     text-align: center;
 }
+#portText a {
+    color: mediumpurple;
+    background-color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    padding: 5px 15px;
+    border: 2px solid white;
+    border-radius: 5px;
+    border-style: inset;
+}
