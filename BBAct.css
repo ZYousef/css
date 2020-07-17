@@ -130,7 +130,7 @@ body {
 #portBody .portSection div.vtbegenerated,h3 {
     text-align: center;
 }
-a {
+#portBody > a {
     color: mediumpurple;
     background-color: rgba(255,255,255,0.8);
     text-decoration: none;
